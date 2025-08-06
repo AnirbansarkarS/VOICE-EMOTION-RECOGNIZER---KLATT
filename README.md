@@ -1,7 +1,7 @@
 <h1 align="center">🎙️ Voice Emotion Recognition</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen?style=flat-square&logo=streamlit" />
-  <img src="https://img.shields.io/github/languages/top/anirbanSarkars/voice-emotion-recognizer?style=flat-square" />
+<!--   <img src="https://img.shields.io/github/languages/top/anirbanSarkars/voice-emotion-recognizer?style=flat-square" /> -->
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Anirban-blueviolet?style=flat-square" />
 </p>
 
